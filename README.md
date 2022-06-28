@@ -1,46 +1,87 @@
-# Getting Started with Create React App
+<img alt="icon" title="#icon" src="https://i.imgur.com/O14s0Df.png" width="100px" align = "left"> <br>
+<h1 align="center"> Alurakut </h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center"> 
+  Alura Studies é um criador de tarefas com um cronômetro que ao finalizar marca a tarefa como concluída.
+  App acadêmico passando pelas principais ferramentas do React com TypeScript, utilizando o SASS e CSS module.
+  <br/>
+  Link do Projeto: <a href="https://alura-studies-swart.vercel.app/" >Alura Studies</a>
+</p>
 
-## Available Scripts
 
-In the project directory, you can run:
+<p align="center">
+  <img alt="Tela" title="#Tela" src="https://i.imgur.com/jQ0CcXf.png" width="400px">
+</p>
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+<h4 align="center"> 
+	🚧  APP 📱 Concluído 🚀 🚧
+</h4>
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a> •
+  <a href="#-funcionalidades">Funcionalidades</a> •
+  <a href="#-como-rodar-o-projeto">Como Rodar</a> •
+  <a href="#-autor">Autor</a> •
+  <a href="#-licença">Licença</a> •
+  
+</p>
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 🛠 Tecnologias
 
-### `npm run build`
+### [JavaScript](https://www.javascript.com/) com [React](https://pt-br.reactjs.org/), ultilizando as seguintes dependencias:
+  
+-  **[sass](https://www.npmjs.com/package/sass)**
+-  **[typescript-plugin-css-modules](https://www.npmjs.com/package/typescript-plugin-css-modules)**
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+> Para mais detalhes, veja o arquivo  [package.json](./package.json)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### **Utilitários**
 
-### `npm run eject`
+-   Editor:  **[Visual Studio Code](https://code.visualstudio.com/)**
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## 📝 Funcionalidades
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- [x] Criar Tarefa
+- [x] Selecionar tarefa e atualizar cronômetro
+- [x] Ao finalizar o cronômetro, marcar tarefa como concluída
+- [x] Não poder selecionar tarefa concluída
+---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## 🎲 Como Rodar o Projeto
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
+```bash
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+# Clone este repositório
+$ git clone https://github.com/robsongdev/alura-studies.git
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+# Acesse a pasta do projeto no terminal/cmd
+$ cd alura-studies
+
+# Instale as dependências
+$ npm install
+
+# Execute a aplicação
+$ npm start
+```
+---
+
+## 👨‍💻 Autor
+
+<img style = "border-radius: 50%;" src = "https://avatars.githubusercontent.com/u/61766294?s=460&u=63adaa91f7c8f4a54950026f5a69a44f35e97030&v=4" width = "100px;" alt = "Avatar" />
+<sub> <b> Robson Gabriel</b> </sub>
+
+Feito com ❤️ por Robson 👋🏽 Entre em contato!<br>
+[![Gmail Badge](https://img.shields.io/badge/-robsong369@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:robsong369@gmail.com)](mailto:robsong369@gmail.com)
+
+
+---
+## 📝 Licença
+
+<a href="./LICENSE">
+  <img alt="ban-license" src="https://img.shields.io/apm/l/pack">
+</a>
